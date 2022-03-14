@@ -1,3 +1,14 @@
+
+<p align="center">❗Just using for release store purpose, plz see upstream source code. </p>
+<p align="center"> 📦 2.9.9-modify </p>
+  
+---
+
+<details>
+<summary>ORI DOC</summary>
+
+----
+
 ```
 
 ███╗   ██╗        ███╗   ███╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗       ██████╗██╗     ██╗
@@ -91,3 +102,5 @@ https://discord.gg/W5tvcRJDPs
 
 # 赞赏
 ![Wow](https://nilaoda.github.io/N_m3u8DL-CLI/source/images/alipay.png)
+  
+  </details>
